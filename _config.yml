@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Air and Truck Expediting LLC
+email: AirTruckExpediting@aol.com 
+description: > # this means to ignore newlines until "baseurl:"
+  Air and Truck Expediting is a local company north of Dayton.
+  With affordable rates and experienced drivers, you can always count on us for on
+  time delivered expedited frieght and great customer experience. Air and Truck Expediting
+  has a fleet full of Vans, Sprinter Vans, Truck/Trailors and Box-Trucks.
+  With many years of experience we promise you will be satisfied.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: riankingrey
+github_username:  Riann.Kingrey
+facebook_username: Air & Truck Expediting LLC
+# Build settings
+markdown: kramdown
